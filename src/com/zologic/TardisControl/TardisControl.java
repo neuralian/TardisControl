@@ -454,7 +454,7 @@ public class TardisControl extends Activity {
 
 		unregisterReceiver(mGattUpdateReceiver);
 	}
-
+//test
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
